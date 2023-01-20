@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\bin\Debug\net6.0\ReadOnly_And_Immutable.exe
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\bin\Debug\net6.0\ReadOnly_And_Immutable.deps.json
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\bin\Debug\net6.0\ReadOnly_And_Immutable.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\bin\Debug\net6.0\ReadOnly_And_Immutable.dll
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\bin\Debug\net6.0\ReadOnly_And_Immutable.pdb
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\obj\Debug\net6.0\ReadOnly_And_Immutable.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\obj\Debug\net6.0\ReadOnly_And_Immutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\obj\Debug\net6.0\ReadOnly_And_Immutable.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\obj\Debug\net6.0\ReadOnly_And_Immutable.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\obj\Debug\net6.0\ReadOnly_And_Immutable.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\obj\Debug\net6.0\ReadOnly_And_Immutable.dll
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\obj\Debug\net6.0\refint\ReadOnly_And_Immutable.dll
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\obj\Debug\net6.0\ReadOnly_And_Immutable.pdb
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\obj\Debug\net6.0\ReadOnly_And_Immutable.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\ReadOnly_And_Immutable\ReadOnly_And_Immutable\obj\Debug\net6.0\ref\ReadOnly_And_Immutable.dll
